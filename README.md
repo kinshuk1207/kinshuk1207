@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kinshuk Sharma
-- 👀 I’m interested in everything Machine Learning 
+- 👀 I’m interested in everything to do with Machine Learning 
 - 🌱 I’m currently pursuing my Masters in Data Science from Northeatern University
 - 📫 kinshuk1207@gmail.com
 
